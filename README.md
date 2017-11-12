@@ -29,5 +29,5 @@ Hit the play button inside unity once the project is imported
 
 ## Acknowledgments
 
-* Algorithm - [Flocking] (https://www.amazon.com/Artificial-Intelligence-Games-Ian-Millington/dp/0123747317)
-* Inspiration - [Above and Below] (https://sketchfab.com/models/39abb5860a584e3fb2ec6cee5ecce2db) by kevin_pauly.
+* Algorithm - [Flocking](https://www.amazon.com/Artificial-Intelligence-Games-Ian-Millington/dp/0123747317)
+* Inspiration - [Above and Below](https://sketchfab.com/models/39abb5860a584e3fb2ec6cee5ecce2db) by kevin_pauly.
