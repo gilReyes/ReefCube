@@ -18,6 +18,8 @@ Open the executable file or Import the project into Unity using the project Impo
 
 Hit the play button inside unity once the project is imported
 
+## Video
+* [Video](https://youtu.be/FKJt5x-E7FY)
 ## Built With
 
 * [Unity](https://unity3d.com/) - Game Engine Used
